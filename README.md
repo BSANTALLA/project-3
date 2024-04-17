@@ -6,11 +6,11 @@ To use this project, all outputted PNG images are available for view in the GitH
 
 This project keeps ethical considerations in mind. Primarily, we did not include any names in the results to protect the privacy of the consumer. We ensure to protect this privacy because the locations of each purchase were across the US and different states could have different legislation. We also did not divulge income information in relation to any name in particular. This also protects the privacy of the consumer.
 
-References for the data source
+References for the data source:
 https://www.kaggle.com/datasets/missionjee/car-sales-report
 
-References for any code used that is not your own
+References for any code used that is not your own:
 N/A
 
-GitHub Repo Link
+GitHub Repo Link:
 https://github.com/BSANTALLA/project-3/
