@@ -14,3 +14,6 @@ N/A
 
 GitHub Repo Link:
 https://github.com/BSANTALLA/project-3/
+
+Google Slides:
+https://docs.google.com/presentation/d/1_yXbu8Vg3NPYRGVZOLE1MEh7y0tJVJlw-aCh9hT81PE/edit?usp=sharing
