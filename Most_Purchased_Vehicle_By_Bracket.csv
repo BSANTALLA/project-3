@@ -1,0 +1,4 @@
+"income_range","num_customers","most_frequent_car"
+">150000","18625","Volvo Xterra"
+">50000 and <150000","6","Pontiac Sunfire"
+"<50000","5275","Volvo Xterra"
