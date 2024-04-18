@@ -1,6 +1,6 @@
 ## Project 3
 
-The purpose of this project is to identify what cars are most popular within an income bracket, identify what the average price of a used car is at the highest selling dealerships, To identify average car price by income bracket. In order to identify these results, the data must be imported into Jupyter Notebook & transformed. Next, creating an ERD to understand the data & creating tables for the data to set up the data to be interpreted further in SQL codes. New Tables for our conclusions can then be drawn and reviewed. Lastly, reading the SQL data back into Jupyter Notebook and adding Sea Born Visualization finalizes our analysis on the data.
+The purpose of this project is to identify what cars are most popular within an income bracket, identify what the average price of a used car is at the highest selling dealerships, and identify average car price by income bracket. In order to identify these results, the data must be imported into Jupyter Notebook & transformed. Next, creating an ERD to understand the data & creating tables for the data to set up the data to be interpreted further in SQL codes. New Tables for our conclusions can then be drawn and reviewed. Lastly, reading the SQL data back into Jupyter Notebook and adding Sea Born Visualization finalizes our analysis on the data.
 
 To use this project, all outputted PNG images are available for view in the GitHub Repo along with the Jupyter Notebook and SQL Code.
 
